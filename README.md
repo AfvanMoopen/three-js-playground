@@ -1,2 +1,2 @@
 # three-js-playground
-practice codes 
+practice codes  for all from Bruno Simon
